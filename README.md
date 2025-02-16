@@ -36,9 +36,3 @@ This project detects Acute Lymphoblastic Leukemia (ALL) from microscopic images 
 - OpenCV (`cv2`)
 - NumPy
 - Pillow (for Tkinter image handling)
-
-## Contributing
-Feel free to open issues or submit pull requests!
-
-## License
-This project is licensed under the MIT License.
